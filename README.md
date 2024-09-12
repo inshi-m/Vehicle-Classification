@@ -6,7 +6,9 @@ This project implements a vehicle classification system using TensorFlow and Ker
 **Technical Implementation**
 
 Custom model architecture with convolutional and pooling layers
+
 Data preprocessing using Keras ImageDataGenerator
+
 Emphasis on model accuracy and performance
 
 
